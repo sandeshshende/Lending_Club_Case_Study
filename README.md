@@ -49,7 +49,7 @@ The following factors can be instrumental in predicting loan defaults and minimi
 This project was inspired by the UpGrad IITB Programme and serves as a case study for the Machine Learning and Artificial Intelligence course.
 
 ## Contact
-Created by Sanjay Barnwal and Sandesh Shende - feel free to reach out!
+Created by Sanjay Barnwal and Sandesh Shende.
 
 ## License
 This project is open-source and available without restrictions.
