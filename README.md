@@ -32,18 +32,18 @@ The following factors can be instrumental in predicting loan defaults and minimi
 
 ### Additional Considerations for Defaults:
 - Borrowers from major urban areas such as California, New York, Texas, and Florida.
-- Borrowers with annual incomes ranging from $50,000 to $100,000.
+- Borrowers with annual incomes ranging from 50,000 to 100,000.
 - Borrowers with a history of public recorded bankruptcy.
 - Borrowers with low grades (E, F, G), indicating higher risk.
 - Borrowers with high Debt-to-Income ratios.
 - Borrowers with over ten years of work experience.
 
 ## Technologies Used
-- **Pandas** - version 1.3.4
-- **NumPy** - version 1.20.3
-- **Seaborn** - version 0.11.2
-- **Matplotlib** - version 3.4.3
-- **Plotly** - version 5.7.0
+- **Pandas** - version 2.1.4
+- **NumPy** - version 1.26.4
+- **Seaborn** - version 0.12.2
+- **Matplotlib** - version 3.8.0
+- **Plotly** - version 5.9.0
 
 ## Acknowledgements
 This project was inspired by the UpGrad IITB Programme and serves as a case study for the Machine Learning and Artificial Intelligence course.
